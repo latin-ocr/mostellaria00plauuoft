@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mostellaria00plauuoft_0215.png"; bbox 0 0 2190 3412; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 632 723 776 2893">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 632 723 776 2893">
+     <span class='ocr_line' id='line_1_1' title="bbox 632 723 776 2893; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 652 2784 746 2893; x_wconf 66' lang='grc' dir='ltr'>1.ῐῷ</span> <span class='ocrx_word' id='word_1_2' title='bbox 695 2026 773 2350; x_wconf 73' lang='lat' dir='ltr'>Plautus„</span> <span class='ocrx_word' id='word_1_3' title='bbox 662 1771 762 1976; x_wconf 57' lang='lat' dir='ltr'>fitne</span> <span class='ocrx_word' id='word_1_4' title='bbox 707 1401 768 1727; x_wconf 64' lang='lat' dir='ltr'>Raecius.</span> <span class='ocrx_word' id='word_1_5' title='bbox 632 723 776 1186; x_wconf 50' lang='lat' dir='ltr'>nosteffssffi</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 776 1189 875 2888">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 776 1189 875 2888">
+     <span class='ocr_line' id='line_1_2' title="bbox 776 1189 875 2888; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 776 2474 838 2888; x_wconf 60' lang='lat' dir='ltr'>marmor-2</span> <span class='ocrx_word' id='word_1_7' title='bbox 784 1728 845 2187; x_wconf 58' lang='lat' dir='ltr'>Mostella-12</span> <span class='ocrx_word' id='word_1_8' title='bbox 804 1694 858 1717; x_wconf 80' lang='lat'><em>3</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 794 1526 849 1640; x_wconf 83' lang='lat' dir='ltr'>ed.</span> <span class='ocrx_word' id='word_1_10' title='bbox 793 1394 865 1477; x_wconf 78' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_11' title='bbox 796 1189 875 1354; x_wconf 66' lang='lat' dir='ltr'>Q.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 992 362 2112 2998">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 992 362 2112 2998">
+     <span class='ocr_line' id='line_1_3' title="bbox 992 362 2112 2998; textangle 90"><span class='ocrx_word' id='word_1_12' title='bbox 992 362 2112 2998; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
